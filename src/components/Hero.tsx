@@ -12,7 +12,7 @@ export default function Hero() {
         width={250}
         height={250}
       />
-      <h2 className="text-3xl font-bold mt-2">Hi, I'm Develnom</h2>
+      <h2 className="text-3xl font-bold mt-2">{"Hi, I'm Develnom"}</h2>
       <h3 className="text-xl font-semibold">Full-stack Engineer</h3>
       <p>꿈을 코딩하는 사람, 드림코더 디벨놈</p>
       <Link href="/contact">
